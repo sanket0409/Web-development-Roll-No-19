@@ -1,0 +1,8 @@
+carShowroom{
+	color: white; 
+	background-color: pink; 
+	width: 100%; 
+}
+companyname, carname, model, price {
+	display : block;
+}

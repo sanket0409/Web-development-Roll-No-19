@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="stud1.xsl"?>
+
+<class>
+  <student>
+    <name>Virendra</name>
+    <roll>41</roll>
+    <branch>CSE</branch>
+    <marks>55</marks>
+  </student>
+  <student>
+    <name>Swaraj</name>
+    <roll>54</roll>
+    <branch>ECE</branch>
+    <marks>35</marks>
+  </student>
+</class>

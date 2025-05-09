@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<btechsubjects>
+
+  <firstyear>
+   <semister1>
+	<subject1>Physics</subject1>
+	<subject2>Linear algebra and calculas</subject2>
+	<subject3>Programming lan C</subject3>
+	<subject4>Basic Civil</subject4>
+	<subject5>Design thinking and innovation</subject5>
+	<subject6>Historical place in kolhapur</subject6>
+   </semister1>
+   <semister2>
+	<subject1>Chemistry</subject1>
+	<subject2>Differential equation and numberical Techniques</subject2>
+	<subject3>Elements of electrical and electonic engineering</subject3>
+	<subject4>Autocad</subject4>
+	<subject5>Professional communication</subject5>
+   </semister2>
+  </firstyear>
+
+   <secondyear>
+   <semister3>
+	<subject1>Computer Networks</subject1>
+	<subject2>Discriet Mathematical Structure</subject2>
+	<subject3>Programming lan C++</subject3>
+	<subject4>Community Engagement project</subject4>
+	<subject5>Web mining</subject5>
+	<subject6>Study of blender</subject6>
+   </semister3>
+   <semister4>
+	<subject1>Data Structure and Algorithm</subject1>
+	<subject2>Automata theory</subject2>
+	<subject3>Web development</subject3>
+	<subject4>R programming lan</subject4>
+	<subject5>Introduction to data engineering</subject5>
+	<subject6>Project management</subject6>
+   </semister4>
+  </secondyear>
+
+  <thirdyear>
+   <semister5>
+	<subject1>Operating Systems</subject1>
+	<subject2>Database Management Systems</subject2>
+	<subject3>Software Engineering</subject3>
+	<subject4>Professional Elective I </subject4>
+	<subject5>Open Elective I </subject5>
+	<subject6>Operating Systems Lab</subject6>
+   </semister5>
+   <semister6>
+	<subject1>Compiler Design</subject1>
+	<subject2>Artificial Intelligence / Machine Learning</subject2>
+	<subject3>Data Warehousing and Data Mining</subject3>
+	<subject4>Professional Elective II</subject4>
+	<subject5>Open Elective II</subject5>
+	<subject6>Mini Project / Internship / Industrial Training</subject6>
+   </semister6>
+  </thirdyear>
+
+  <forthyear>
+   <semister7>
+	<subject1>Machine Learning / Deep Learning</subject1>
+	<subject2>Big Data Analytics</subject2>
+	<subject3>Professional Elective III</subject3>
+	<subject4>Professional Elective IV </subject4>
+	<subject5>Open Elective III</subject5>
+	<subject6>Project Phase I</subject6>
+   </semister7>
+   <semister8>
+	<subject1>Professional Elective V</subject1>
+	<subject2>Open Elective IV</subject2>
+	<subject3>Project Phase II / Major Project (Final Year Capstone Project)</subject3>
+	<subject4>Comprehensive Viva / Exit Seminar (Varies by university)</subject4>
+	<subject5>Internship / Industry Training Report (optional in some universities)</subject5>
+   </semister8>
+  </forthyear>
+
+</btechsubjects>
+
+
+ 
